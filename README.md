@@ -43,3 +43,11 @@ Reconnu pour mon excellente capacité d'écoute et mon aptitude à vulgariser de
 *2025 (Stage de 126 heures)*
 *   **Atelier technique** : Installation, configuration de base et mise à niveau de systèmes informatiques et périphériques variés.
 *   **Service & Vulgarisation** : Écoute active des clients et explication simple de concepts techniques.
+---
+
+## 📬 Me contacter
+
+Pour discuter d'opportunités professionnelles ou échanger sur les technologies de soutien informatique, n'hésitez pas à me joindre :
+
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/mathieu-brown-075b082a4/)
+[![Email](https://shields.io)](mailto:brown.mathieu1989@gmail.com)
