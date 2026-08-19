@@ -21,3 +21,25 @@ Reconnu pour mon excellente capacité d'écoute et mon aptitude à vulgariser de
 ### ⚙️ Gestion de Parc & Opérations
 *   **Matériel & Postes** : Montage, installation, configuration et mise à niveau d'ordinateurs et de périphériques.
 *   **Logistique TI** : Gestion d'inventaire, tri d'équipements et contribution à l'accueil technologique des nouveaux employés (Onboarding).
+---
+
+## 💼 Expériences en Soutien Informatique
+
+### 🚀 Prochainement : Stagiaire en Soutien Informatique | **GIRO**
+*Prévu de Septembre 2026 à Octobre 2026 (Mandat de 210 heures)*
+*Sélectionné pour intégrer l'équipe de première ligne au sein d'une entreprise technologique d'envergure, avec pour objectifs clés :*
+*   **Prise en charge de première ligne** : Apprentissage de l'accueil, de la documentation et du suivi rigoureux des demandes d'assistance des utilisateurs internes.
+*   **Diagnostic technique** : Participation active à la résolution des anomalies logicielles et matérielles de niveau 1.
+*   **Gestion des accès** : Collaboration à l'administration des comptes utilisateurs et à l'assignation des permissions de base selon les politiques de sécurité.
+*   **Déploiement de matériel** : Pratique liée à la préparation, à la mise à jour et à la configuration de terminaux et de périphériques pour les employés.
+
+### 🏫 Stagiaire en Soutien Informatique | **Cégep André-Laurendeau**
+*2026 (Stage de 138 heures)*
+*   **Assistance technique** : Point de contact initial (sur place et à distance) et escalade rigoureuse des incidents complexes.
+*   **Résolution** : Diagnostic et traitement rapide des pannes liées aux postes de travail et applications corporatives.
+*   **Gestion de parc** : Tri, inventaire et optimisation de la disponibilité des équipements informatiques.
+
+### 🛒 Stagiaire aux opérations techniques | **Best Buy (Marché Central)**
+*2025 (Stage de 126 heures)*
+*   **Atelier technique** : Installation, configuration de base et mise à niveau de systèmes informatiques et périphériques variés.
+*   **Service & Vulgarisation** : Écoute active des clients et explication simple de concepts techniques.
