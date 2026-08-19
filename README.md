@@ -1,7 +1,7 @@
 # Bonjour, moi c'est Mathieu Brown !
 
 ## 💻 Profil Professionnel
-Technicien en soutien informatique passionné, curieux et rigoureux. Mon parcours combine une solide formation technique en infrastructures TI à une approche humaine unique développée dans le domaine de la relation d'aide. 
+Futur technicien en soutien informatique passionné, curieux et rigoureux. Mon parcours combine une solide formation technique en infrastructures TI à une approche humaine unique développée dans le domaine de la relation d'aide. 
 
 Reconnu pour mon excellente capacité d'écoute et mon aptitude à vulgariser des concepts complexes, je m'assure d'offrir une expérience utilisateur simple, efficace et rassurante. Orienté vers l'esprit d'équipe et la collaboration, je me spécialise dans la gestion et le support d'environnements de travail modernes, avec une expertise particulièrement centrée sur l'écosystème Microsoft.
 
