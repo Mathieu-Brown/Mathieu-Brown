@@ -49,5 +49,5 @@ Reconnu pour mon excellente capacité d'écoute et mon aptitude à vulgariser de
 
 Pour discuter d'opportunités professionnelles ou échanger sur les technologies de soutien informatique, n'hésitez pas à me joindre :
 
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/mathieu-brown-075b082a4/)
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/mathieu-brown-ti/)
 [![Email](https://shields.io)](mailto:brown.mathieu1989@gmail.com)
